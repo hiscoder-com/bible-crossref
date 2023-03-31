@@ -49,17 +49,16 @@
 
 ## About The Project
 
-Description
+A small library that returns cross-references for a selected verse or chapter.
 
 **Purpose**
 
-- **Problem**
+Make an easy way to get cross references.
 
-- **Scope**
+**Problem**
 
-- **Background**
+I didn't find any js libraries for getting cross-references, although there are large open bases in the public domain.
 
--
 
 <a style="text-align: right; display: block" href="#top">(back to top)</a>
 
@@ -95,7 +94,32 @@ npm install @texttree/bible-crossref
 
 ## Usage
 
-Example of usage
+- import
+
+```js
+import { getByBCV, getByBC } from '@texttree/bible-crossref';
+```
+
+- require
+
+```js
+const bibleCrossref = require('@texttree/bible-crossref');
+```
+
+There are two methods in the library:
+
+- `getByBCV({book, chapter, verse})` - getting cross-references by verse
+- `getByBC({book, chapter})` - getting cross-references by chapter
+
+You can also use the api that uses this library to check.
+
+[https://crossref.texttree.org/crossref/gen.34](https://crossref.texttree.org/crossref/gen.34)
+
+https://crossref.texttree.org/crossref/[book].[chapter]
+
+[https://crossref.texttree.org/crossref/gen.34.19](https://crossref.texttree.org/crossref/gen.34.19)
+
+https://crossref.texttree.org/crossref/[book].[chapter].[verse]
 
 <a style="text-align: right; display: block" href="#top">(back to top)</a>
 
