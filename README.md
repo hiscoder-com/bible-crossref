@@ -113,7 +113,7 @@ There are two methods in the library:
 
 You can also use the api that uses this library to check.
 
-[https://crossref.texttree.org/crossref/gen.34.19](https://crossref.texttree.org/crossref/gen.34.19)
+[https://crossref.texttree.org/crossref/gen.34:19](https://crossref.texttree.org/crossref/gen.34:19)
 
 [https://crossref.texttree.org/crossref/gen.34](https://crossref.texttree.org/crossref/gen.34)
 
