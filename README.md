@@ -113,13 +113,9 @@ There are two methods in the library:
 
 You can also use the api that uses this library to check.
 
-[https://crossref.texttree.org/crossref/gen.34](https://crossref.texttree.org/crossref/gen.34)
-
-https://crossref.texttree.org/crossref/[book].[chapter]
-
 [https://crossref.texttree.org/crossref/gen.34.19](https://crossref.texttree.org/crossref/gen.34.19)
 
-https://crossref.texttree.org/crossref/[book].[chapter].[verse]
+[https://crossref.texttree.org/crossref/gen.34](https://crossref.texttree.org/crossref/gen.34)
 
 <a style="text-align: right; display: block" href="#top">(back to top)</a>
 
