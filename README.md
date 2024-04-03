@@ -113,9 +113,9 @@ There are two methods in the library:
 
 You can also use the api that uses this library to check.
 
-[https://bible-crossref.netlify.app/crossref/gen.34:19](https://bible-crossref.netlify.app/crossref/gen.34:19)
+[https://bible-crossref.netlify.app/crossref/gen 34:19](https://bible-crossref.netlify.app/crossref/gen%2034:19)
 
-[https://bible-crossref.netlify.app/crossref/gen.34](https://bible-crossref.netlify.app/crossref/gen.34)
+[https://bible-crossref.netlify.app/crossref/gen 34](https://bible-crossref.netlify.app/crossref/gen%2034)
 
 <a style="text-align: right; display: block" href="#top">(back to top)</a>
 
